@@ -17,7 +17,7 @@ Simple Menu Bar Application For Mac
 
 ### macOS
 
-[**Download**](https://github.com/Cwoodall6/cgram/releases/download/v1.0.0/cgram_macosx103.zip), unzip, and move `cgram.app` to the `/Applications` folder.
+[**Download**](https://github.com/Cwoodall6/quickcalc/releases/download/v1.0.0/quickcalc.app.zip), unzip, and move `quickcalc.app` to the `/Applications` folder.
 
 ## Features
 
