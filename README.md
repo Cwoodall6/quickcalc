@@ -1,4 +1,4 @@
-# quickcalc
+#<img src="app/icon_512x512.png" width=50 > quickcalc
 Simple Menu Bar Application For Mac
 
 [![GitHub release](https://img.shields.io/github/release/Cwoodall6/quickcalc.svg?maxAge=2592000?style=plastic)]()
@@ -19,7 +19,7 @@ Simple Menu Bar Application For Mac
 - Distraction Free Design
 - Simple Calculations
 - Multiple Operators on One Line
-<iframe src='https://gfycat.com/ifr/DifferentCleanFrenchbulldog' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/DifferentCleanFrenchbulldog' frameborder='0' scrolling='no' width='640' height='594' allowfullscreen></iframe>
 - There Right When You Need It
 
 ## Shortcuts
