@@ -5,6 +5,11 @@ Simple Menu Bar Application For Mac
 [![Github All Releases](https://img.shields.io/github/downloads/Cwoodall6/quickcalc/total.svg?maxAge=2592000?style=plastic)]()
 
 # ![pageres](app/quickcalc_design.jpg)
+## Simple Calculations
+![Alt Text](https://github.com/Cwoodall6/quickcalc/blob/master/assets/simplecalc.gif)
+
+## Multiple Operators on One Calculation
+![Alt Text](https://github.com/Cwoodall6/quickcalc/blob/master/assets/complexcalc.gif)
 
 ## Install
 
@@ -18,9 +23,7 @@ Simple Menu Bar Application For Mac
 
 - Distraction Free Design
 - Simple Calculations
-![Alt Text](https://github.com/Cwoodall6/quickcalc/blob/master/assets/simplecalc.gif)
 - Multiple Operators on One Line
-![Alt Text](https://github.com/Cwoodall6/quickcalc/blob/master/assets/complexcalc.gif)
 - There Right When You Need It
 
 ## Shortcuts
