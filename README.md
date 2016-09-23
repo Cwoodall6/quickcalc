@@ -19,7 +19,7 @@ Simple Menu Bar Application For Mac
 - Distraction Free Design
 - Simple Calculations
 - Multiple Operators on One Line
-![Alt Text](https://zippy.gfycat.com/DifferentCleanFrenchbulldog.mp4)
+![Alt Text](https://gfycat.com/ifr/SourFewEagle)
 - There Right When You Need It
 
 ## Shortcuts
