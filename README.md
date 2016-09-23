@@ -18,8 +18,9 @@ Simple Menu Bar Application For Mac
 
 - Distraction Free Design
 - Simple Calculations
+![Alt Text](https://github.com/Cwoodall6/quickcalc/assets/simplecalc.gif)
 - Multiple Operators on One Line
-![Alt Text](https://gfycat.com/ifr/SourFewEagle)
+![Alt Text](https://github.com/Cwoodall6/quickcalc/assets/complexcalc.gif)
 - There Right When You Need It
 
 ## Shortcuts
