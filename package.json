@@ -9,7 +9,7 @@
     },
   "scripts": {
     "start": "electron .",
-    "package": "electron-packager . cgram --platform=darwin --arch=x64 --out=~/Desktop --overwrite --icon=app/quickcalc.icns "
+    "package": "electron-packager . quickcalc --platform=darwin --arch=x64 --out=~/Desktop --overwrite --icon=app/quickcalc.icns "
   },
   "license": "MIT",
   "repository": {
