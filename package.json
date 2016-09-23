@@ -1,0 +1,34 @@
+{
+  "name": "quickcalc",
+  "productName": "quickcalc",
+  "version": "1.0.0",
+  "description": "Menubar Calculator Made with Electron",
+  "main": "main.js",
+  "dependencies": {
+    "menubar": "^5.1.0"
+    },
+  "scripts": {
+    "start": "electron .",
+    "package": "electron-packager . cgram --platform=darwin --arch=x64 --out=~/Desktop --overwrite --icon=app/quickcalc.icns "
+  },
+  "license": "MIT",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/Cwoodall6/quickcalc"
+	},
+	"keywords": [
+		"Calculator",
+		"Menubar",
+		"Quick",
+		"Simple"
+	],
+	"author": {
+		"name": "Chaz Woodall",
+		"email": "chazwoodall@gmail.com",
+		"url": "http://chazwoodall.com"
+	},
+    "devDependencies": {
+		"electron": "^1.3.3",
+		"electron-packager": "^7.7.0"
+	}
+}
