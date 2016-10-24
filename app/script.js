@@ -1,7 +1,6 @@
 window.onload = function() {
     var pad = document.getElementById('pad');
     var answerArea = document.getElementById('answer');
-    var ops = ["+", "-", "/", "*", "%"];
     var d = new Date();
 
     var calculateLine = function(){
@@ -194,6 +193,19 @@ window.onload = function() {
                 var calc =  (per/100) * cash;
                 answerArea.innerHTML = calc;
             }
+        }
+
+        //MISC FUNCTIONS
+        //COLOR FUNC
+        if (questionText.includes(":color(") && questionText.includes(")")) {
+            var val = questionText.substring(questionText.indexOf("(")+1, --questionText.length);
+            answerArea.innerHTML = '<canvas id="myCanvas"></canvas>';
+            var canvas = document.getElementById("myCanvas");
+            var ctx = canvas.getContext("2d");
+            ctx.beginPath();
+            ctx.fillStyle = val;
+            ctx.rect(35,3,50,20);
+            ctx.fill();
         }
     };
 
