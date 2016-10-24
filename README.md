@@ -1,4 +1,4 @@
-#<img src="app/icon_512x512.png" width=50 > quickcalc (HUGE UPDATE ON THE WAY!)
+#<img src="app/icon_512x512.png" width=50 > quickcalc 
 Simple Menu Bar Application For Mac
 
 [![GitHub release](https://img.shields.io/github/release/Cwoodall6/quickcalc.svg?maxAge=2592000?style=plastic)]()
@@ -32,9 +32,9 @@ Simple Menu Bar Application For Mac
 
 ## Future Iterations
 
- - [ ] May Change UI
- - [ ] More Keyboard Shortcuts
- - [ ] Parenthesis 
+ - [X] May Change UI
+ - [X] More Keyboard Shortcuts
+ - [X] Parenthesis 
  - [ ] Make Non Resizable (Important)
 
 
