@@ -6,10 +6,10 @@ Simple Menu Bar Application For Mac
 
 # ![pageres](app/quickcalc_design.jpg)
 ## Simple Calculations
-![Alt Text](https://github.com/Cwoodall6/quickcalc/blob/master/assets/simplecalc.gif)
+![Alt Text](https://github.com/Cwoodall6/quickcalc/blob/master/assets/ezgif.com-crop.gif)
 
 ## Multiple Operators on One Calculation
-![Alt Text](https://github.com/Cwoodall6/quickcalc/blob/master/assets/complexcalc.gif)
+![Alt Text](https://github.com/Cwoodall6/quickcalc/blob/master/assets/ezgif.com-crop-2.gif)
 
 ## Install
 
@@ -18,6 +18,26 @@ Simple Menu Bar Application For Mac
 ### macOS
 
 [**Download**](https://github.com/Cwoodall6/quickcalc/releases/download/v1.0.0/quickcalc.app.zip), unzip, and move `quickcalc.app` to the `/Applications` folder.
+
+## Functions
+### Math 
+- Calculations can be simple or complex '5 + 4' '(4**3)/(4839-32+423)'
+..* '+' plus
+..* '-' minus
+..* '*' multiply
+..* '/' divide
+..* '%' modulo
+..* '**' exponent
+
+### Date and Time 
+- ':today' returns the current date; you may add or subtract days ex. ':today + 5'
+- ':datein' returns the date plus the value you pass ex. ':datein 3'
+- ':daysof' returns the amount of days in the value passed ex. ':daysof jan' ':daysof 3 years 5 months'
+- ':time' returns current time
+### Money
+- ':off' returns a percentage off of a value ex. '20% :off 300' '3% :off 50.50'
+- ':of' returns percentage of a value ex. '50% :of 40' '16% :of 32.70'
+
 
 ## Features
 
