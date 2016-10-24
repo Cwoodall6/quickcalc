@@ -6,6 +6,9 @@ Simple Menu Bar Application For Mac
 
 # ![pageres](app/quickcalc_design.jpg)
 
+## A Calculator That Does More 👍
+![Alt Text](https://github.com/Cwoodall6/quickcalc/blob/master/assets/ezgif.com-crop-3.gif)
+
 ## Functions To Help Your Daily Life ✅
 ![Alt Text](https://github.com/Cwoodall6/quickcalc/blob/master/assets/ezgif.com-crop.gif)
 
