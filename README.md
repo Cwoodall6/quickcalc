@@ -5,10 +5,11 @@ Simple Menu Bar Application For Mac
 [![Github All Releases](https://img.shields.io/github/downloads/Cwoodall6/quickcalc/total.svg?maxAge=2592000?style=plastic)]()
 
 # ![pageres](app/quickcalc_design.jpg)
-## Simple Calculations
+
+## Functions To Help Your Daily Life ✅
 ![Alt Text](https://github.com/Cwoodall6/quickcalc/blob/master/assets/ezgif.com-crop.gif)
 
-## Multiple Operators on One Calculation
+## Let's Do Some Math ➗
 ![Alt Text](https://github.com/Cwoodall6/quickcalc/blob/master/assets/ezgif.com-crop-2.gif)
 
 ## Install
@@ -20,7 +21,7 @@ Simple Menu Bar Application For Mac
 [**Download**](https://github.com/Cwoodall6/quickcalc/releases/download/v1.1.0/quickcalc.app.zip), unzip, and move `quickcalc.app` to the `/Applications` folder.
 
 ## Functions
-### Math 
+### Math ➕
 - Calculations can be simple or complex `5 + 4` `(4**3)/(4839-32+423)`
  * `+` plus
  * `-` minus
@@ -35,16 +36,17 @@ Simple Menu Bar Application For Mac
 - `:e` returns e^x ex. `:e(2)`
 - Trig functions are within code but aren't guarenteed to give a wanted answer, so they aren't included in this list.
 
-### Date and Time 
+### Date and Time ⌚
 - `:today` returns the current date; you may add or subtract days ex. `:today + 5`
 - `:datein` returns the date plus the value you pass ex. `:datein 3`
 - `:daysof` returns the amount of days in the value passed ex. `:daysof jan` `:daysof 3 years 5 months`
 - `:time` returns current time
-### Money
+
+### Money 💸
 - `:off` returns a percentage off of a value ex. `20% :off 300` `3% :off 50.50`
 - `:of` returns percentage of a value ex. `50% :of 40` `16% :of 32.70`
 
-### Misc.
+### Misc. 🖥
 - `:color` takes a Hex color code returns a rectangle of inputed color ex. `:color(#000)`
 
 ## Shortcuts
