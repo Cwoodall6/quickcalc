@@ -1,5 +1,5 @@
 #<img src="app/icon_512x512.png" width=50 > quickcalc 
-Simple Menu Bar Application For Mac
+Simple Menu Bar Application For Mac and Windows
 
 [![GitHub release](https://img.shields.io/github/release/Cwoodall6/quickcalc.svg?maxAge=2592000?style=plastic)]()
 [![Github All Releases](https://img.shields.io/github/downloads/Cwoodall6/quickcalc/total.svg?maxAge=2592000?style=plastic)]()
@@ -17,11 +17,15 @@ Simple Menu Bar Application For Mac
 
 ## Install
 
-*macOS 10.9+*, Windows will be availible soon
+*macOS 10.9+*, Windows now available!
 
 ### macOS
 
 [**Download**](https://github.com/Cwoodall6/quickcalc/releases/download/v1.1.0/quickcalc.app.zip), unzip, and move `quickcalc.app` to the `/Applications` folder.
+
+### Windows
+
+[**Download**](https://github.com/Cwoodall6/quickcalc/releases/download/v1.1.0/quickcalc-win32-ia32.zip), unzip, and use `quickcalc.app`.
 
 ## Functions
 ### Math ➕
