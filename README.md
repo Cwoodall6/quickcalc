@@ -41,7 +41,7 @@ Simple Menu Bar Application For Mac and Windows
 - `:log` returns log (base 10) ex. `:log(100)`
 - `:ln` returns natural log (base E) ex. `:ln(50)`
 - `:e` returns e^x ex. `:e(2)`
-- Trig functions are within code but aren't guarenteed to give a wanted answer, so they aren't included in this list.
+- Trig functions are within code but aren't guarenteed to give a desired answer, so they aren't included in this list.
 
 ### Date and Time ⌚
 - `:today` returns the current date; you may add or subtract days ex. `:today + 5`
@@ -54,7 +54,7 @@ Simple Menu Bar Application For Mac and Windows
 - `:of` returns percentage of a value ex. `50% :of 40` `16% :of 32.70`
 
 ### Misc. 🖥
-- `:color` takes a Hex color code returns a rectangle of inputed color ex. `:color(#000)`
+- `:color` takes a Hex color code and displays a rectangle of inputed color ex. `:color(#000)`
 
 ## Shortcuts
 - Quit: <kbd>command</kbd> + <kbd>Q</kbd>
