@@ -4,7 +4,7 @@ Simple Menu Bar Application For Mac and Windows
 [![GitHub release](https://img.shields.io/github/release/Cwoodall6/quickcalc.svg?maxAge=2592000?style=plastic)]()
 [![Github All Releases](https://img.shields.io/github/downloads/Cwoodall6/quickcalc/total.svg?maxAge=2592000?style=plastic)]()
 
-# ![pageres](app/quickcalc_design.jpg)
+# ![pageres]()
 
 ## A Calculator That Does More 👍
 ![Alt Text](https://github.com/Cwoodall6/quickcalc/blob/master/assets/ezgif.com-crop-3.gif)
