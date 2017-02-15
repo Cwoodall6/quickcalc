@@ -1,4 +1,4 @@
-#<img src="app/icon_512x512.png" width=50 > quickcalc 
+#<img src="app/logo.png" width=50 > quickcalc 
 Simple Menu Bar Application For Mac and Windows
 
 [![GitHub release](https://img.shields.io/github/release/Cwoodall6/quickcalc.svg?maxAge=2592000?style=plastic)]()
