@@ -1,8 +1,9 @@
-#<img src="app/logo.png" width=50 > quickcalc 
+<img src="app/logo.png" width=50 > quickcalc 
 Simple Menu Bar Application For Mac and Windows
 
 [![GitHub release](https://img.shields.io/github/release/Cwoodall6/quickcalc.svg?maxAge=2592000?style=plastic)]()
 [![Github All Releases](https://img.shields.io/github/downloads/Cwoodall6/quickcalc/total.svg?maxAge=2592000?style=plastic)]()
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](chazwoodall@gmail.com)
 
 # ![pageres](assets/quickcalc_design.jpg)
 
