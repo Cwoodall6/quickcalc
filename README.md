@@ -3,7 +3,7 @@ Simple Menu Bar Application For Mac and Windows
 
 [![GitHub release](https://img.shields.io/github/release/Cwoodall6/quickcalc.svg?maxAge=2592000?style=plastic)]()
 [![Github All Releases](https://img.shields.io/github/downloads/Cwoodall6/quickcalc/total.svg?maxAge=2592000?style=plastic)]()
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](chazwoodall@gmail.com)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/ChazWoodall)
 
 # ![pageres](assets/quickcalc_design.jpg)
 
